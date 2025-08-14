@@ -81,6 +81,19 @@ Mi principal herramienta de programación es **Blueprints**, lo que me permite c
       <a href="https://store.steampowered.com/app/3295670/Labernum/" target="_blank"><strong>Ver en la Tienda de Steam →</strong></a>
     </td>
   </tr>
+
+  <tr>
+    <td valign="middle" align="center">
+      <a href="https://create.fortnite.com/join/826757e9-2de0-4a15-871c-aba5953b594e/1afd4458-863e-4706-81f2-c1d1620480ec" target="_blank">
+        <img src="https://create.fortnite.com/_next/image?url=https%3A%2F%2Fcdn-0001.qstv.on.epicgames.com%2FgSYpvEjjGbFNOSoKsm%2Fimage%2Flandscape_comp_m.jpeg&w=256&q=75" alt="Logo CBA Land" width="100%">
+      </a>
+    </td>
+    <td valign="middle">
+      <h3>CBA Land - Experiencia en Fortnite (UEFN)</h3>
+      <p>Mapa de mundo abierto creado con <strong>Unreal Editor for Fortnite (UEFN)</strong>. Este proyecto demuestra mis habilidades en diseño de niveles, creación de assets y lógicas de juego con Verse para la plataforma de creadores de Fortnite, ofreciendo una experiencia única a la comunidad.</p>
+      <a href="https://create.fortnite.com/join/826757e9-2de0-4a15-871c-aba5953b594e/1afd4458-863e-4706-81f2-c1d1620480ec" target="_blank"><strong>Probar la Experiencia →</strong></a>
+    </td>
+  </tr>
 </table>
 
 ---
