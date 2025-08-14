@@ -45,6 +45,19 @@ Mi principal herramienta de programación es **Blueprints**, lo que me permite c
 <table width="100%">
   <tr>
     <td width="30%" valign="middle" align="center">
+      <a href="https://www.gametoleads.com" target="_blank">
+        <img src="https://scontent.feoh3-1.fna.fbcdn.net/v/t39.30808-1/525868128_122172739760483882_1135268106792885932_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=107&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=_puEI7idLXMQ7kNvwHlLGZ8&_nc_oc=Adks4moCD9DEy0HnkzOAoVcFS4ok1Eima90t-1lQI7LyjLFzxxpjo_ElmFogLcpVFfcG7m8xDukjCY0wMPQtfK_E&_nc_zt=24&_nc_ht=scontent.feoh3-1.fna&_nc_gid=DLZYMoKCSAgEucrBcjSJOQ&oh=00_AfV4X2Et02jln7JDs0IYNIHUROcNs5F75ssZbuhmu8mh1A&oe=68A2F392" alt="Logo Game to Leads" width="100%">
+      </a>
+    </td>
+    <td valign="middle">
+      <h3>Game To Leads - Gamificación de Empresas</h3>
+      <p>Plataforma SAAS donde aplico mi conocimiento en diseño de juegos para <strong>gamificar procesos de marketing y ventas</strong>. A través de micro-juegos interactivos, las empresas pueden capturar leads de una forma innovadora y mucho más efectiva que los formularios tradicionales.</p>
+      <a href="https://www.gametoleads.com" target="_blank"><strong>Visitar GameToLeads.com →</strong></a>
+    </td>
+  </tr>
+    
+  <tr>
+    <td width="30%" valign="middle" align="center">
       <a href="https://www.twarco.com" target="_blank">
         <img src="https://scontent.fpei3-1.fna.fbcdn.net/v/t39.30808-1/460487949_122169361202160577_101723180323693157_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=101&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=i6jnXOZf1foQ7kNvwEPbN3j&_nc_oc=AdkVpyCtEPeyCHkRj_7lxpQ_6crRHbtoLjHul3-RzGh8tzCosDKAjjaOMRflUsi8HTTQ1MHKPIeQdBkLdtPWVM4i&_nc_zt=24&_nc_ht=scontent.fpei3-1.fna&_nc_gid=A2JyJA35eEBle6guNaAzMg&oh=00_AfXzhjQDNiXn-1bX8jJY6L0gfV-3GDrBIUVXHGHv5Zlz0g&oe=68A30B1F" alt="Logo Twarco" width="100%">
       </a>
@@ -66,19 +79,6 @@ Mi principal herramienta de programación es **Blueprints**, lo que me permite c
       <h3>Labernum - De Portafolio a Competidor Global</h3>
       <p>Lo que comenzó como un proyecto personal, se convirtió en un videojuego de terror y supervivencia completo. Su calidad fue reconocida con una invitación al <strong>Game Development World Championship (GDWC)</strong>, demostrando mi capacidad para crear productos competitivos a nivel mundial.</p>
       <a href="https://store.steampowered.com/app/3295670/Labernum/" target="_blank"><strong>Ver en la Tienda de Steam →</strong></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="middle" align="center">
-      <a href="https://www.gametoleads.com" target="_blank">
-        <img src="https://scontent.feoh3-1.fna.fbcdn.net/v/t39.30808-1/525868128_122172739760483882_1135268106792885932_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=107&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=_puEI7idLXMQ7kNvwHlLGZ8&_nc_oc=Adks4moCD9DEy0HnkzOAoVcFS4ok1Eima90t-1lQI7LyjLFzxxpjo_ElmFogLcpVFfcG7m8xDukjCY0wMPQtfK_E&_nc_zt=24&_nc_ht=scontent.feoh3-1.fna&_nc_gid=DLZYMoKCSAgEucrBcjSJOQ&oh=00_AfV4X2Et02jln7JDs0IYNIHUROcNs5F75ssZbuhmu8mh1A&oe=68A2F392" alt="Logo Game to Leads" width="100%">
-      </a>
-    </td>
-    <td valign="middle">
-      <h3>Game To Leads - Gamificación de Empresas</h3>
-      <p>Plataforma SAAS donde aplico mi conocimiento en diseño de juegos para <strong>gamificar procesos de marketing y ventas</strong>. A través de micro-juegos interactivos, las empresas pueden capturar leads de una forma innovadora y mucho más efectiva que los formularios tradicionales.</p>
-      <a href="https://www.gametoleads.com" target="_blank"><strong>Visitar GameToLeads.com →</strong></a>
     </td>
   </tr>
 </table>
@@ -110,6 +110,9 @@ Estoy siempre abierto a colaborar en proyectos innovadores y a discutir sobre nu
   </a>
   <a href="https://wa.me/573215335248" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://linko.page/sh78hn5emsnv" target="_blank">
+    <img src="https://img.shields.io/badge/LinkoPage-Code_Chimp-FF69B4?style=for-the-badge&logo=buzzfeed&logoColor=white" alt="LinkoPage">
   </a>
   <a href="https://www.facebook.com/JuanFelipVelezVilla" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
