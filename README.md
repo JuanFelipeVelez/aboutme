@@ -121,6 +121,9 @@ Estoy siempre abierto a colaborar en proyectos innovadores y a discutir sobre nu
   <a href="https://www.linkedin.com/in/jufevelez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://platzi.com/p/jufevelez/" target="_blank">
+    <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi">
+  </a>
   <a href="mailto:juagamedev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
