@@ -102,7 +102,7 @@ Además de mis proyectos principales, soy un creador activo en el ecosistema de 
 Estoy siempre abierto a colaborar en proyectos innovadores y a discutir sobre nuevas tecnologías. ¡Hablemos!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-felipe-velez-villa/" target="_blank">
+  <a href="https://www.linkedin.com/in/jufevelez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:juagamedev@gmail.com">
@@ -114,10 +114,10 @@ Estoy siempre abierto a colaborar en proyectos innovadores y a discutir sobre nu
   <a href="https://linko.page/sh78hn5emsnv" target="_blank">
     <img src="https://img.shields.io/badge/LinkoPage-Code_Chimp-FF69B4?style=for-the-badge&logo=buzzfeed&logoColor=white" alt="LinkoPage">
   </a>
-  <a href="https://www.facebook.com/JuanFelipVelezVilla" target="_blank">
+  <a href="https://www.facebook.com/jufevelez" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://www.youtube.com/@gametoleads" target="_blank">
+  <a href="https://www.youtube.com/@jufevelez" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
